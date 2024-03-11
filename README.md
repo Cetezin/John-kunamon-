@@ -1,2 +1,7 @@
-# John-kunamon
-Experienced Frontend Engineer with a passion for creating seamless, user-centric web interfaces. Proficient in HTML, CSS, and JavaScript, with a strong foundation in modern frameworks such as React and Vue. Adept at translating design concepts into responsive and engaging user experiences. Proven track record of collaborating with cross-functional teams to deliver high-quality, visually appealing applications. Continuous learner, staying abreast of industry trends and emerging technologies to enhance development skills. Strong problem-solving abilities and commitment to delivering intuitive, efficient, and visually compelling web solutions.
+🖐️ Hi! I am @John_Kunamon
+😄 Pronouns: He/Him
+👀 I'm interested in building Web Apps
+🥀 I am a web-developer and Data analyst, with expertise in Javascript, React, NodeJs Python and SQL
+💞 Job Intersts : Software developer, Fronted Engineer, Javascript Developer, Data analyst
+💼 You can reach out to me @kunamon.john20@gmail.com
+🌩️ Fun fact: I am very easy to cllaborate with on Projects
